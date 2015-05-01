@@ -11,7 +11,7 @@ module.exports = {
   // The Slack host
   //
   // Careful! Don't include the token with your slack_host value
-  "slack_host"  : "https://FIXME.slack.com/services/hooks/incoming-webhook",
-  "slack_token" : "FIXME"
+  "slack_host"  : "https://hooks.slack.com/services/",
+  "slack_token" : "T04FCEDJ7/B04M19Y63/ReYYiEhPywSL8RdPjGI70Nsc"
 
 };
