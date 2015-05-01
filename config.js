@@ -12,6 +12,6 @@ module.exports = {
   //
   // Careful! Don't include the token with your slack_host value
   "slack_host"  : "https://hooks.slack.com/services/",
-  "slack_token" : "T04FCEDJ7/B04M19Y63/ReYYiEhPywSL8RdPjGI70Nsc"
+  "slack_token" : "XuKgXaaWxbJ7LaJr7xDtPwiV"
 
 };
